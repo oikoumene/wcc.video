@@ -34,6 +34,7 @@ setup(name='wcc.video',
           'plone.app.multilingual',
           'plone.multilingualbehavior',
           'plone.app.versioningbehavior',
+          'wcc.featurable',
           # -*- Extra requirements: -*-
       ],
       extras_require={
